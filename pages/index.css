@@ -12,3 +12,6 @@
 @import url("../blocks/footer/__copyright/footer__copyright.css");
 @import url("../blocks/lead/lead.css");
 @import url("../blocks/lead/__title/lead__title.css");
+@import url("../blocks/lead/__subtitle/lead__subtitle.css");
+@import url("../blocks/lead/__image-container/lead__image-container.css");
+@import url("../blocks/lead/__image-slipping/lead__image-slipping.css");

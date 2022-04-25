@@ -1,0 +1,15 @@
+.lead__image-slipping {
+  width: 76.8%;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__image-slipping {
+    width: 90.6%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__image-slipping {
+    width: 100%;
+  }
+}

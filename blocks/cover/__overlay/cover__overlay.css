@@ -1,0 +1,19 @@
+.cover__overlay {
+  margin: 0 auto 0 auto;
+  padding: 0;
+  width: 92.5%;
+  position: relative;
+}
+
+@media screen and (max-width: 1280px) {
+  .cover__overlay {
+    width: min(100%,max(1024px, calc(1024px + (100vw - 1024px)*160/256)));
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__overlay {
+    width: 100%;
+  }
+}
+

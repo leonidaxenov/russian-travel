@@ -2,10 +2,10 @@
   margin: 0;
   padding: 0;
   width: 100%;
-  opacity: 0.3;
+  opacity: 0.8;
   transition: opacity 0.5s linear;
 }
 
 .cover__background:hover {
-  opacity: 0.8;
+  opacity: 0.3;
 }
